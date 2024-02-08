@@ -1,3 +1,10 @@
-text cell will have view mode and edit mode
+npm install --save-exact react-redux redux @types/react-redux redux-thunk --legacy-peer-deps
 
-npm i --save-exact  @uiw/react-md-editor@2.1.1
+reducers
+cells -> data, loading, error, order
+bundles -> data
+
+action
+updateCell, deleteCell, InserCellBefore/After, moveCell, fetchCells(async will use thunk)
+
+actions (interface) action-craetor -> code
