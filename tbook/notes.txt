@@ -1,3 +1,5 @@
-immer -> lets us change state objects easy
+CELL LIST list of cells
 
-npm i immer
+useTyped selector -> type of data in redux store (also return in ordered list )
+
+npm install @fortawesome/fontawesome-free@5.15.1 --legacy-peer-deps
